@@ -1,3 +1,20 @@
-Songs in this directory are for reference purposes only and are not covered under organya-js license.
 
-They come from the person who remixed/created them.
+Music Composed by Daniel Robert. Brown "Mr. Ragtime", for Robot's Revenge.
+Pier Walk Arr., & Crackdown (Beta Last Battle) are arranged by Ragtime but originally by Daisuke "Pixel" Amaya.
+________________
+
+Track Name
+Crackdown
+Black Magica
+Dark Magica
+Arcadia
+Pier Walk Arr.
+
+~-------------~
+
+Internal Name
+FIRSTBT
+SHADOW
+MAGICA
+OLD
+WALK
